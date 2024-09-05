@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=D7-1
-Removed Pin From Net: NetName=GND Pin=R9-1
-Removed Pin From Net: NetName=GND Pin=U?-45
-Change Component Description : Designator=U2 Old Description=Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055 New Description=Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055 | Adafruit Industries 2472
-Added Pin To Net: NetName=NetD7_1 Pin=D7-1
-Added Pin To Net: NetName=NetD7_1 Pin=R9-1
-Added Pin To Net: NetName=NetD7_1 Pin=U?-45
-Added Net: Name=NetD7_1
-Add Differential Pair: Number of nets in differential pair USB-D+ is 1 instead of 2

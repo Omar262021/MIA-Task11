@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=NetR1_1 Pin=S-1
-Removed Pin From Net: NetName=GND Pin=S-2
-Removed Member From Class: ClassName=Sheet1 Member=S
-Change Component Designator: OldDesignator=SW? NewDesignator=SWITCH
-Added Pin To Net: NetName=GND Pin=SWITCH-A
-Added Pin To Net: NetName=NetR1_1 Pin=SWITCH-B
-Add Differential Pair: Number of nets in differential pair USB-D+ is 1 instead of 2
