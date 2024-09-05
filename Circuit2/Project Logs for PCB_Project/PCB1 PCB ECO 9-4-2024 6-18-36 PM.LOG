@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC Pin=U3-1
+Removed Pin From Net: NetName=NetU1A_30 Pin=U3-2
+Removed Pin From Net: NetName=NetU1A_29 Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U3-4
+Add Component: Footprint Not Found XCVR_HC-SR04
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-2
+Add Pin To Net: Unknown Pin: Pin U?-3
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Differential Pair: Number of nets in differential pair USB-D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB-D- is 1 instead of 2
+Add Class Member: Failed to add class member : Component U? HC-SR04

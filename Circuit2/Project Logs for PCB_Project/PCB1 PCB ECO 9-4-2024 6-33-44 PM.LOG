@@ -1,0 +1,8 @@
+Add Component: Footprint Not Found XCVR_HC-SR04
+Add Pin To Net: Unknown Pin: Pin 3-1
+Add Pin To Net: Unknown Pin: Pin 3-2
+Add Pin To Net: Unknown Pin: Pin 3-3
+Add Pin To Net: Unknown Pin: Pin 3-4
+Add Differential Pair: Number of nets in differential pair USB-D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB-D- is 1 instead of 2
+Add Class Member: Failed to add class member : Component 3 HC-SR04

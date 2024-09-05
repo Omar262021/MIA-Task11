@@ -1,0 +1,8 @@
+Added Component: Designator=C?(CAPRR254W50L508T317H508)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SR201C104KARTR/Kyocera/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SR201C104KARTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SR201C104KARTR/Kyocera/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component C? SR201C104KARTR

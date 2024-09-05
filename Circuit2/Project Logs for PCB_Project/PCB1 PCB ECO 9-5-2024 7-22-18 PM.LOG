@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPRR254W54L381T254H466 New Footprint=CAPRR254W50L508T317H508
+Change Component Footprint: Designator=C2 Old Footprint=CAPRR254W54L381T254H466 New Footprint=CAPRR254W50L508T317H508
+Change Component Footprint: Designator=C5 Old Footprint=CAPRR254W54L381T254H466 New Footprint=CAPRR254W50L508T317H508
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPRR254W54L381T254H466"; UniqueID = "\RWXGURLK" ("\RWXGURLK")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SR201C104KARTR/Kyocera/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SR201C104KARTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SR201C104KARTR/Kyocera/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPRR254W54L381T254H466"; UniqueID = "\EKXENXAK" ("\EKXENXAK")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SR201C104KARTR/Kyocera/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SR201C104KARTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SR201C104KARTR/Kyocera/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAPRR254W54L381T254H466"; UniqueID = "\VIYXDTMV" ("\VIYXDTMV")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SR201C104KARTR/Kyocera/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SR201C104KARTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SR201C104KARTR/Kyocera/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component C4 100nF

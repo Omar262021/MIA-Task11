@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=PA2 Pin=U1-12
+Removed Pin From Net: NetName=PA3 Pin=U1-13
+Removed Pin From Net: NetName=PA4 Pin=U1-14
+Removed Pin From Net: NetName=SCL Pin=U1-21
+Removed Pin From Net: NetName=SDA Pin=U1-22
+Removed Pin From Net: NetName=USB-D- Pin=U1-32
+Removed Pin From Net: NetName=USB-D+ Pin=U1-33
+Removed Pin From Net: NetName=NetD7_1 Pin=U1-45
+Removed Pin From Net: NetName=NetD8_1 Pin=U1-46
+Change Component Designator: OldDesignator=U1 NewDesignator=U1B
+Added Component: Designator=U1A(STM-LQFP48_L)
+Add component (AddParameter): Name = "A/D Converter"; Value = "2x12-bit (10 Channel)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Low Profile Quad Flat Package, 7 x 7 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 6, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "2"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Added Pin To Net: NetName=PA2 Pin=U1A-12
+Added Pin To Net: NetName=PA3 Pin=U1A-13
+Added Pin To Net: NetName=PA4 Pin=U1A-14
+Added Pin To Net: NetName=SCL Pin=U1A-21
+Added Pin To Net: NetName=SDA Pin=U1A-22
+Added Pin To Net: NetName=USB-D- Pin=U1A-32
+Added Pin To Net: NetName=USB-D+ Pin=U1A-33
+Added Pin To Net: NetName=NetD7_1 Pin=U1A-45
+Added Pin To Net: NetName=NetD8_1 Pin=U1A-46
+Added Pin To Net: NetName=NetU1A_29 Pin=U1A-29
+Added Pin To Net: NetName=NetU1A_29 Pin=U3-3
+Added Net: Name=NetU1A_29
+Added Pin To Net: NetName=NetU1A_30 Pin=U1A-30
+Added Pin To Net: NetName=NetU1A_30 Pin=U3-2
+Added Net: Name=NetU1A_30
+Add Differential Pair: Number of nets in differential pair USB-D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB-D- is 1 instead of 2
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C4 Capacitor
+Add Class Member: Failed to add class member : Component C5 Capacitor
+Add Class Member: Failed to add class member : Component D1 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D4 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D5 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component D6 Light-Emitting Diode
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Added Member To Class: ClassName=Sheet1 Member=Component U1A STM32F103C8T6
+Added Member To Class: ClassName=Sheet1 Member=Component U1B STM32F103C8T6

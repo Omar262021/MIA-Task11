@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=NetR9_2 Pin=U1-SCL
+Removed Pin From Net: NetName=NetR10_2 Pin=U1-SDA
+Removed Pin From Net: NetName=VCC Pin=U1-VCC
+Removed Pin From Net: NetName=VCC Pin=U3-1
+Removed Pin From Net: NetName=NetU1A_30 Pin=U3-2
+Removed Pin From Net: NetName=NetU1A_29 Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U3-4
+Removed Member From Class: ClassName=Sheet1 Member=U3
+Change Component Footprint: Designator=U1 Old Footprint=GY-521 New Footprint=QFN50P400X400X95-24N
+Change Component Comment : Designator=U1 Old Comment=GY-521 New Comment=MPU-6050
+Change component parameters: Designator = "U1" ("U1"); Footprint = "GY-521"; UniqueID = "\IVKEHRHU" ("\IVKEHRHU")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MPU-6050/TDK+InvenSense/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MPU-6050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "QFN-24 InvenSense"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MPU-6050/TDK+InvenSense/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(XCVR_HC-SR04)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HC-SR04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=NetR9_2 Pin=U1-23
+Added Pin To Net: NetName=NetR10_2 Pin=U1-24
+Added Pin To Net: NetName=VCC Pin=U?-1
+Added Pin To Net: NetName=NetU1A_30 Pin=U?-2
+Added Pin To Net: NetName=NetU1A_29 Pin=U?-3
+Added Pin To Net: NetName=GND Pin=U?-4
+Add Differential Pair: Number of nets in differential pair USB-D+ is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB-D- is 1 instead of 2
+Added Member To Class: ClassName=Sheet1 Member=Component U? HC-SR04

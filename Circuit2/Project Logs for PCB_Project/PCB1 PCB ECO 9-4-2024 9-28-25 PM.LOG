@@ -1,0 +1,22 @@
+Change Component Description : Designator=U2 Old Description=Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055 New Description=Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055 | Adafruit Industries 2472
+Added Component: Designator=U?(QFP50P1200X1200X160-64N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/STM32F103RCT6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "STM32F103RCT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP-64 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/STM32F103RCT6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F103RCT6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=+5 Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-23
+Added Pin To Net: NetName=+5 Pin=U?-24
+Added Pin To Net: NetName=GND Pin=U?-35
+Added Pin To Net: NetName=+5 Pin=U?-36
+Added Pin To Net: NetName=GND Pin=U?-47
+Added Pin To Net: NetName=+5 Pin=U?-48
+Add Differential Pair: Number of nets in differential pair USB-D+ is 1 instead of 2
+Added Member To Class: ClassName=Sheet1 Member=Component U3 HC-SR04
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32F103RCT6
