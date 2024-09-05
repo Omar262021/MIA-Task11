@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GND Pin=-2
+Removed Pin From Net: NetName=GND Pin=-5
+Removed Pin From Net: NetName=NetC1_1 Pin=Q4-3
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Member From Class: ClassName=Sheet1 Member=
+Removed Member From Class: ClassName=Sheet1 Member=Q4
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Removed Member From Class: ClassName=Sheet1 Member=R6
+Change Component Designator: OldDesignator=5 volt NewDesignator=J1
+Change Component Designator: OldDesignator=8.4 volt NewDesignator=J3
+Change Component Designator: OldDesignator=12 volt input NewDesignator=J2
+Added Component: Designator=PTC(FP-PRF18-PRG18-0_15-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "630mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "29mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "630mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "60°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-10°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "47R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "POSISTOR® PRG18BB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "24V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.000141oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "800um"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=PTC-2
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR8_2
+Added Pin To Net: NetName=NetPTC_1 Pin=PTC-1
+Added Pin To Net: NetName=NetPTC_1 Pin=Q3-3
+Added Net: Name=NetPTC_1
+Added Member To Class: ClassName=Sheet1 Member=Component PTC PRG18BB470MB1RB
